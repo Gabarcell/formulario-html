@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f1f1f1;
+    background-color: #363636;
+    font-size: 24px;
+}
+p{
+    text-align: center;
+    font-weight: 100;
+
+}
+.login{
+    font-family: cursive;
+    color: chartreuse;
+}
+p a {
+    text-decoration: none;
+    color: antiquewhite;
+}
+p a:hover{
+    color: aquamarine;
+}
